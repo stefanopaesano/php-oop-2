@@ -1,5 +1,5 @@
 <?php
-// nuovoprodotto.php
+
 
 class nuovoprodotto extends Product {
     public $discount;
